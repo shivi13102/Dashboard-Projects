@@ -1,13 +1,6 @@
-# Dashboard Projects
-This repository contains dashboard projects created using Power BI and Tableau, demonstrating data analysis and visualization skills. These dashboards provide insights from various datasets, delivering interactive reports, charts, and graphs to support data-driven decision-making and business intelligence.
+# Sales Analysis Dashboard
 
----
-
-## Power BI Projects
-
-### Sales Analysis Dashboard
-
-#### Project Overview
+## Project Overview
 **Scenario**:  
 TechWave Solutions, a prominent computer hardware and peripherals supplier in India, faces challenges in effectively monitoring and analyzing sales performance across regional markets. The company operates from its headquarters in Delhi with multiple regional offices catering to major clients, including Excel Stores, Normal Stores, Surge Stores, and PowerTech Outlets.
 
@@ -25,3 +18,6 @@ To address these challenges, TechWave Solutions requires a Power BI dashboard th
 - Present a clear, data-driven view of business performance, minimizing reliance on subjective verbal updates.
 
 With this dashboard, TechWave Solutions aims to enhance its data-driven decision-making, adapt sales strategies to market dynamics, and ultimately drive business growth.
+
+![image](https://github.com/user-attachments/assets/287c9915-9643-4182-80b3-0d8a5bd00072)
+
